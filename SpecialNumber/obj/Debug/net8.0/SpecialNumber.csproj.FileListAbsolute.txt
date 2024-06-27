@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\bin\Debug\net8.0\SpecialNumber.exe
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\bin\Debug\net8.0\SpecialNumber.deps.json
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\bin\Debug\net8.0\SpecialNumber.runtimeconfig.json
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\bin\Debug\net8.0\SpecialNumber.dll
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\bin\Debug\net8.0\SpecialNumber.pdb
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\SpecialNumber.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\SpecialNumber.dll
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\refint\SpecialNumber.dll
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\SpecialNumber.pdb
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\SpecialNumber.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\SpecialNumber\SpecialNumber\obj\Debug\net8.0\ref\SpecialNumber.dll
